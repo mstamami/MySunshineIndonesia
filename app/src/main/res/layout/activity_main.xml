@@ -31,9 +31,10 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                android:layout_gravity="center">
 
-                <TextView
+                <ImageView
                     android:id="@+id/img_weather"
                     android:layout_width="@dimen/img_weather_widht"
                     android:layout_height="@dimen/img_weather_height"
