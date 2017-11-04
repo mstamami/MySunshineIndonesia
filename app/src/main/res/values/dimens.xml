@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_padding">16dp</dimen>
+    <dimen name="header_height">200dp</dimen>
+    <dimen name="img_weather_widht">64dp</dimen>
+    <dimen name="img_weather_height">64dp</dimen>
+</resources>
